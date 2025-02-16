@@ -1,0 +1,7 @@
+CustomerID,FullName,OrderID,TotalCost,MenuName,Courses,Starters
+2,"Jane Doe",2,30.00,Indian,Curry,Samosas
+3,"Bob Smith",3,40.00,Italian,Spaghetti,Bruschetta
+3,"Bob Smith",3,40.00,Chinese,"Lo Mein","Egg Rolls"
+4,"Alice Johnson",4,50.00,Mexican,Tacos,Nachos
+4,"Alice Johnson",4,50.00,Japanese,Ramen,Sushi
+5,"Mike Brown",5,60.00,Italian,Spaghetti,Bruschetta
